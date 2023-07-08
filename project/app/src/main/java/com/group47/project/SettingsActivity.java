@@ -35,6 +35,7 @@ public class SettingsActivity extends AppCompatActivity {
 
     
     /**
+    
      * The NewsPreferenceFragment implements the Preference.OnPreferenceChangeListener interface
      * to set up to listen for any Preference changes made by the user.
      * And the NewsPreferenceFragment also implements the DatePickerDialog.OnDateSetListener to

@@ -1,7 +1,7 @@
 # Group-47-Mobile-App-development
-A newsapp called newsfeed
+A newsapp called NEWSFEED
 
-app functions:
+APPFUNCTION:
 
 1. The app launches and displays the main activity.
 2. The main activity sets up the layout, including a toolbar and a navigation drawer.
@@ -34,3 +34,5 @@ PROJECT COLLABORATORS:
 10951917
 
 10976996
+
+10946649

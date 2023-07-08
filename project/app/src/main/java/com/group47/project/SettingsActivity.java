@@ -33,6 +33,7 @@ public class SettingsActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayShowHomeEnabled(true);
     }
 
+    
     /**
      * The NewsPreferenceFragment implements the Preference.OnPreferenceChangeListener interface
      * to set up to listen for any Preference changes made by the user.
